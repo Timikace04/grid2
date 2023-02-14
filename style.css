@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin: 20px auto;
+    border: 5px solid silver;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(12, 2fr);
+}
+
+.block {
+    padding: 40px;
+    background-color: aqua;
+    color: purple;
+    font-weight: 900;
+    font-size: 32px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .q {
+    grid-area: 1/13/2/1;
+}
+.w{
+    grid-area: 2/7/3/1;
+}
+.e{
+    grid-area: 2/13/3/7;
+}
+.r{
+    grid-area: 3/5/4/1;
+}
+ .t{
+    grid-area: 3/9/4/5;
+}
+.y{
+    grid-area: 3/13/4/9;
+} 
+.u{
+grid-area: 4/4/5/1;
+}
+.i{
+grid-area: 4/7/5/4;
+}
+.o{
+    grid-area: 4/10/5/7;
+}
+.p{
+    grid-area: 4/13/5/10;
+}
+.a{
+    grid-area: 5/3/6/1;
+}
+.s{
+    grid-area: 5/5/6/3;
+}
+.g{
+    grid-area: 5/7/6/5;
+}
+.h{
+    grid-area: 5/9/6/7;
+}
+.j{
+    grid-area:5/11/6/9 ;
+}
+.k{
+    grid-area: 5/13/6/11;
+} */
